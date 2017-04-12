@@ -3,7 +3,7 @@
 A simple python script that takes a json file that is in a difficult to read form and make it easier to read.
 
 Usage:
-    python pretty_json.py <data.json>
+    ```python pretty_json.py <data.json>```
 where data.json is the file you want to format.
 
 For example given a file data.json containing:
