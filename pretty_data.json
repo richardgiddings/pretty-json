@@ -1,0 +1,16 @@
+{
+    "Locations": {
+        "Location": [
+            {
+                "latitude": "54.9375", 
+                "longitude": "-2.8092", 
+                "name": "Carlisle Airport"
+            }, 
+            {
+                "latitude": "53.3336", 
+                "longitude": "-2.85", 
+                "name": "Liverpool John Lennon Airport"
+            }
+        ]
+    }
+}
